@@ -12,8 +12,8 @@ export default function Projects({ data }) {
   return (
     <Layout>
       <div className={styles.portfolio}>
-        <h2>Daftar Projek</h2>
-        <h3>Daftar Project yang telah Kami buat</h3>
+        <h2>Project List</h2>
+        <h3>What we've Done</h3>
         <div className={styles.projects}>
           {projects.map(project => (
             <Link to={"/projects/" + project.frontmatter.slug} key={project.id}>
