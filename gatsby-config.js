@@ -35,9 +35,9 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Kalla Group',
-    description: 'Website Resmi Kalla Group',
-    copyright: 'Website Copyright 2021 Kalla Group',
-    contact: 'halo@kallagroup.co.id'
+    title: 'NFH Projects',
+    description: 'Website Projects Gatsby JS',
+    copyright: 'Website Copyright 2021 NFH',
+    contact: 'halo@nfhdesign.co.id'
   }
 }
